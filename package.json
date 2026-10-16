@@ -1,0 +1,9 @@
+{
+  "name": "redux-monorepo",
+  "private": true,
+  "workspaces": [
+    "react-redux-1",
+    "react-redux-2",
+    "redux"
+  ]
+}
